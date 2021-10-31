@@ -7,4 +7,5 @@ package com.msb;
  */
 public class Student {
     private  String sno;
+    private String score;
 }
